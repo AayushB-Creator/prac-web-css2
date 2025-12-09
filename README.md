@@ -4,7 +4,7 @@ The projects built under this repo are to practice html & css extensively.
 
 Deployed links -
 
-https://aayushb-creator.github.io/prac-web-css2/sports%20news%20page/
+>https://aayushb-creator.github.io/prac-web-css2/sports%20news%20page/
 
 >https://aayushb-creator.github.io/prac-web-css2/noni%20landing%20page/
 
