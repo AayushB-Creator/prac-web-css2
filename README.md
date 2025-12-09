@@ -1,6 +1,6 @@
 ![Banner](https://github.com/AayushB-Creator/Practice-Models/blob/main/github%20practice%20models.jpg)
-# prac-web-css
-The projects built under this repo are to practice html & css extensively.
+# prac-web-css2
+The projects built under this repo are to practice html & css extensively. A level up than prac-web-css1
 
 Deployed links -
 
