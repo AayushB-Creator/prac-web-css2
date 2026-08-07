@@ -3,7 +3,7 @@
 The projects built under this repo are to practice html & css extensively. A level up than prac-web-css1
 
 Deployed links -
->https://aayushb-creator.github.io/prac-web-css2/
+>https://aayushb-creator.github.io/prac-web-css2/social-links-profile-main/
 
 >https://aayushb-creator.github.io/prac-web-css2/sports%20news%20page/
 
